@@ -1,0 +1,2 @@
+RewriteEngine on 
+RewriteRule ^([a-zA-Z/_]+)$ index.php?vista=$1
